@@ -1,0 +1,8 @@
+{
+    "name": "horisen/cms-core-pub-mod",
+    "description": "Horisen CMS core public module",
+    "type": "horisen-cms_pub_mod",
+    "extra": {
+        "installer-name": "cms"
+    }
+}
